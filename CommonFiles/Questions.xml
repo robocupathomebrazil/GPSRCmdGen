@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questions>
+  <question>
+    <q>Who invented the C programming language?</q>
+    <a>Ken Thompson and Dennis Ritchie.</a>
+  </question>
+  <question>
+    <q>When was the B programming language invented?</q>
+    <a>B was developed circa 1969 at Bell Labs</a>
+  </question>
+  <question>
+    <q>Where does the term computer bug come from?</q>
+    <a>From a moth trapped in a relay</a>
+  </question>
+  <question>
+    <q>Who invented the first compiler</q>
+    <a>Grace Brewster Murray Hopper invented it</a>
+  </question>
+  <question>
+    <q>Which robot is used in the Open Platform League</q>
+    <a>There is no standard defined for OPL</a>
+  </question>
+  <question>
+    <q>What's the name of your team?</q>
+    <a>...</a>
+  </question>
+  <question>
+    <q>What time is it?</q>
+    <a>...</a>
+  </question>
+  <question>
+    <q>What day is today?</q>
+    <a>...</a>
+  </question>
+  <question>
+    <q>What day of the month is today?</q>
+    <a>...</a>
+  </question>
+  <question>
+    <q>Do you have dreams?</q>
+    <a>I dream of Electric Sheep.</a>
+  </question>
+  <question>
+    <q>In which city will next year's RoboCup be hosted?</q>
+    <a>It hasn't been announced yet</a>
+  </question>
+  <question>
+    <q>What does the word Brazil mean?</q>
+    <a>It means red as ember</a>
+  </question>
+  <question>
+    <q>What is the capital of Brazil?</q>
+    <a>The capital of Brazil if brazilia.</a>
+  </question>
+    <question>
+    <q>In which city we are?</q>
+    <a>We are in Joao Pessoa.</a>
+  </question>
+    <question>
+    <q>What was Joao Pessoa called in the past?</q>
+    <a>The city was called Frederiksted during the Nederland occupation.</a>
+  </question>
+    <question>
+    <q>What else is the city called?</q>
+    <a>Joao Pessoa is also called Acacias city.</a>
+  </question>
+    <question>
+    <q>When was Joao Pessoa founded?</q>
+    <a>Joao Pessoa was founded in 1585.</a>
+  </question>
+    <question>
+    <q>How long is the city coast?</q>
+    <a>The city coast is 24 kilometers long.</a>
+  </question>
+    <question>
+    <q>In the American continent, where is the first place to receive sunlight?</q>
+    <a>Joao Pessoa, that is why some people say that the city is the Sun’s Door.</a>
+  </question>
+    <question>
+    <q>Which city was the RoboCup host in 2014?</q>
+    <a>Joao Pessoa was the host of the RoboCup in 2014.</a>
+  </question>
+    <question>
+    <q>Who invented python programming language?</q>
+    <a>answer</a>
+  </question>
+    <question>
+    <q>What is the most used programming language?</q>
+    <a>answer</a>
+  </question>
+    <question>
+    <q>Which was the world’s first smartphone?</q>
+    <a>IBM’s Simon Personal Communicator, which was released in 1994.</a>
+  </question>
+    <question>
+    <q>Where does the term robot come from?</q>
+    <a>It comes from the Slavic word robota, which means forced labor worker.</a>
+  </question>
+    <question>
+    <q>Which country is the number one in coffee production?</q>
+    <a>Brazil is the number one coffee producer in the world.</a>
+  </question>
+    <question>
+    <q>How many times has brazil won the world cup?</q>
+    <a>answer</a>
+  </question>
+    <question>
+    <q>How many times has brazil won the world cup?</q>
+    <a>Brazil won 5 world cups. In 2002, 1994, 1970, 1962 and 1958.</a>
+  </question>
+    <question>
+    <q>Where can you find the largest Japanese concentration outside Japan?</q>
+    <a>There are approximately 1.6 million Japanese-Brazilians living in São Paulo, making it the largest concentration of individuals of Japanese descent outside of Japan.</a>
+  </question>
+</questions>

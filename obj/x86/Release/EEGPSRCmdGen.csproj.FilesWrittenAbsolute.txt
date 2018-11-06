@@ -1,0 +1,6 @@
+/home/nailed-it-tm/LARCAO/GPSRCmdGen/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nailed-it-tm/LARCAO/GPSRCmdGen/obj/x86/Release/RoboCup.AtHome.EEGPSRCmdGen.Resources.resources
+/home/nailed-it-tm/LARCAO/GPSRCmdGen/bin/Release/EEGPSRCmdGen.exe.mdb
+/home/nailed-it-tm/LARCAO/GPSRCmdGen/bin/Release/EEGPSRCmdGen.exe
+/home/nailed-it-tm/LARCAO/GPSRCmdGen/obj/x86/Release/EEGPSRCmdGen.exe
+/home/nailed-it-tm/LARCAO/GPSRCmdGen/obj/x86/Release/EEGPSRCmdGen.exe.mdb

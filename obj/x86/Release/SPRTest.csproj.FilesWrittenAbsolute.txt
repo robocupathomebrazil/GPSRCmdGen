@@ -1,0 +1,6 @@
+/home/nailed-it-tm/LARCAO/GPSRCmdGen/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nailed-it-tm/LARCAO/GPSRCmdGen/obj/x86/Release/RoboCup.AtHome.SPRTest.Resources.resources
+/home/nailed-it-tm/LARCAO/GPSRCmdGen/bin/Release/SPRTest.exe.mdb
+/home/nailed-it-tm/LARCAO/GPSRCmdGen/bin/Release/SPRTest.exe
+/home/nailed-it-tm/LARCAO/GPSRCmdGen/obj/x86/Release/SPRTest.exe
+/home/nailed-it-tm/LARCAO/GPSRCmdGen/obj/x86/Release/SPRTest.exe.mdb
