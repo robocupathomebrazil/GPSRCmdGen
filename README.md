@@ -1,6 +1,7 @@
 Command Generator for @HOME
 ============================
 
+Remember to git checkout <Branch_of_the_competition>
 
 Random sentence generators RoboCup @Home tests based on the requirements stated on the [rulebook for RoboCup @HomeGo](http://www.robocupathome.org/rules). Current version is based on 2018 rules.
 
