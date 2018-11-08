@@ -82,11 +82,11 @@
   </question>
     <question>
     <q>Who invented python programming language?</q>
-    <a>answer</a>
+    <a>Guido van Rossum invented it</a>
   </question>
     <question>
     <q>What is the most used programming language?</q>
-    <a>answer</a>
+    <a>Java is the most used programming language</a>
   </question>
     <question>
     <q>Which was the world’s first smartphone?</q>
@@ -99,10 +99,6 @@
     <question>
     <q>Which country is the number one in coffee production?</q>
     <a>Brazil is the number one coffee producer in the world.</a>
-  </question>
-    <question>
-    <q>How many times has brazil won the world cup?</q>
-    <a>answer</a>
   </question>
     <question>
     <q>How many times has brazil won the world cup?</q>
